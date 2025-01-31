@@ -11,3 +11,9 @@
     
 // }
 
+// nullish coalescing operator(??)
+//terniary operator(?) ? true: false
+// const ice=100
+// ice >=80 ? console.log("less than 80"):console.log("greater than 80")
+
+
