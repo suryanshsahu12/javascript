@@ -1,4 +1,4 @@
-let value =4
+let value = 4
 let negValue=-value
 //console.log(negValue);
 // console.log(2-2);
@@ -9,7 +9,7 @@ let negValue=-value
 
 // let str1="abhi"
 // let str2=" is "
-// let str3=" rand"
+
 // let str4=str1+str2+str3
 // console.log(str4);
 
