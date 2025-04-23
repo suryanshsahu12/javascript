@@ -6,7 +6,7 @@ console.log(typeof valueInNumber);//be aware that above score is not a number ,b
 console.log( score);
 console.log(valueInNumber);
 //conversions
-//"33abc"->Nan
+//"33abc"->NaN
 //true->1
 
 //strings
