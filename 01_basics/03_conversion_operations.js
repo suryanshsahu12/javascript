@@ -7,9 +7,11 @@ console.log( score);
 console.log(valueInNumber);
 //conversions
 //"33abc"->NaN
-//true->1
 
-//strings
-//booleon
-//""->false
-//"harshu"->true
+let number = 1
+let isNumber = Boolean(1)
+console.log(isNumber);
+//output:true
+
+//"" gives ->false
+//"harshu"  gives->true
