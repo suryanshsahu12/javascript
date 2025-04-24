@@ -18,8 +18,35 @@ let negValue=-value
 // console.log(1+"2"+2);
 // console.log(+true)
 // console.log(+"")
-let num1,num2
 
 
+
+//const Game = 'bhaiya and moto';
+// console.log(Game.endsWith('moto'));
+
+// console.log(Game.charAt(5));
+
+// console.log(Game.indexOf('o'));
+
+// let newString = Game.substring(0,6);
+
+// console.log(newString);
+
+
+//let newString1 = Game.slice(3,-3);
+
+//console.log(newString1);
+
+
+
+//const hund = 1000000
+//console.log(hund.toLocaleString('en-IN'));
+
+
+___________________________________________________________
+
+console.log(Math);
+
+console.log(Math.abs(-4));
 
 
