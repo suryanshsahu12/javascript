@@ -43,10 +43,17 @@ let negValue=-value
 //console.log(hund.toLocaleString('en-IN'));
 
 
-___________________________________________________________
+//___________________________________________________________
 
 console.log(Math);
 
 console.log(Math.abs(-4));
+console.log(Math.ceil(-4.23));
+console.log(Math.floor(-4.95));
+console.log(Math.min(-4,2,5));
+console.log(Math.random());
+//Math.random generates valus from 0 to 1
+ 
 
-
+console.log(Math.random()*(10)+(1));
+console.log(Math.ceil(Math.random()*(10)+(1)));
