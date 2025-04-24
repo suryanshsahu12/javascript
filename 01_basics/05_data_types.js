@@ -2,7 +2,7 @@
 // let repo= 6
 // console.log(`hello my name is ${name} and my repo count is ${repo}`);
 
-// const gameName= newString('teriluli')
+// const gameName= newString('teri')
 // console.log(gameName.charAt(2));//to find character place
 // console.log(gameName.indexOf('l'));//index of character
 
