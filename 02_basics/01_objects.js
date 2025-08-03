@@ -2,10 +2,10 @@
 
 // const mysym = Symbol("mykey1")
 // const users={
-//     Name:"abhi randi",
-//     Email:"abhirandgoogle.com",
-//     location : "g.b.road",
-//     "loco":"suar rand",
+//     Name:"abhi",
+//     Email:"abhgoogle.com",
+//     location : "g.",
+//     "loco":"su",
 //     [mysym]: "mykey1"
     
 // }
@@ -14,19 +14,19 @@
 // // Object.freeze(users)
 // // console.log(users[mysym]);
 
-// users.babu=function () {
-//     console.log("hello babu");
+// users.ba=function () {
+//     console.log("hello ba");
     
     
 // }
 
-// users.babu2=function () {
-//     console.log('hello babu',${this.Name});
+// users.ba2=function () {
+//     console.log('hello ba',${this.Name});
     
     
 // // }
-// // users.babu();
-// // users.babu2();
+// // users.ba();
+// // users.ba2();
 
 
 
@@ -43,7 +43,7 @@
 //     email:"some@gmail.com",
 //     name:{ 
 //         userName:{
-//             randi:"abu_"
+//             ra:"abu_"
 //         }
 //    }
 // }
@@ -67,12 +67,12 @@
 // // const user=[{email:"some@gmail.com",
 // //     name:{ 
 // //         userName:{
-// //             randi:"abu_"
+// //             ra:"abu_"
 // //         }
 // //    }},{email:"some@gmail.com",
 // //     name:{ 
 // //         userName:{
-// //             randi:"abu_"
+// //             ra:"abu_"
 // //         }
 // //    }}]
 // // const locy =user[1].email
