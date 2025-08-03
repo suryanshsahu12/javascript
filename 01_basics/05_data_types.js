@@ -12,11 +12,12 @@
 
 
 // number and maths
-
+//const hund =10000
+//console.log(hund.toLocaleString(' en-IN'));
 // const marksheet = new Number(11.234)
 // console.log(marksheet);
 // console.log(marksheet.toFixed(2));
-
+//console.log(math.round(7.4));
 
 
 // crossOriginIsolated.log(Math.random());
