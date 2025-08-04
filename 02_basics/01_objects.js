@@ -1,7 +1,9 @@
 
 
 // const mysym = Symbol("mykey1")
-// const users={
+
+// two types of object ->literal and singleton
+// literal object//const users={
 //     Name:"abhi",
 //     Email:"abhgoogle.com",
 //     location : "g.",
@@ -33,7 +35,7 @@
 // //_______________________________________________________________________________________________________
 
 
-// const tinderuser={}
+// const tinderuser={}// singleton objecct creation
 // tinderuser.id="abesit@"
 // tinderuser.name="abhu"
 
@@ -61,7 +63,7 @@
 // // const obj3=Object.assign(object1,object2)  // Object.assign(target,source) or
 // // const obj4=Object.assign({},object1,object2)// here taget is empty and obj1 and obj2 are source
 // // console.log(obj4);
-
+//const obj3 = {...obj1,...obj2}
 // // // console.log(obj3);
 
 // // const user=[{email:"some@gmail.com",
