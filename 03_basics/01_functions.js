@@ -7,11 +7,11 @@
 //     console.log(a);
 // }
 
-// new() ///definition
+// new() // we can run code with this only///definition
 
 // function addition(no1,no2) {
 //     // let result=no1 + no2
-//     return no1+no2
+//     return no1+no2// without return statement consolelog(result)wouldn't work
 //     }
 
 // const result=addition(34,85)
